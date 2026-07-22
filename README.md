@@ -18,10 +18,12 @@ Each work's SHA-256 hash is computed from the exact original file stored here, a
 
 
 ## Structure
+
+```
 2024/
 2025/
 2026/
-...
+```
 
 Each folder contains the media files for works archived that year, mirroring the archive's own yearly structure.
 
